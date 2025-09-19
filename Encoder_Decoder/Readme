@@ -19,13 +19,15 @@ An email account with 2-Step Verification enabled and a generated App Password f
 Getting Started
 Clone this repository to your local machine.
 
-git clone [https://github.com/ZohabFaiz/Projects/new/main/Encoder_Decoder.git](https://github.com/ZohabFaiz/Projects/new/main/Encoder_Decoder.git)
+git clone [https://github.com/ZohabFaiz/Projects/tree/main/Encoder_Decoder](https://github.com/ZohabFaiz/Projects/tree/main/Encoder_Decoder)
 cd Encoder_Decoder
+
 
 
 Run the script from your terminal.
 
 python Encoder_Decoder.py
+
 
 
 First-Time Setup
