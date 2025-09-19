@@ -22,18 +22,18 @@ A simple yet powerful command-line tool for encoding and decoding messages and s
 
 ### Getting Started
 
-1.  Clone this repository to your local machine.
+1. Clone this repository to your local machine.
 
-    ```bash
-    git clone [https://github.com/ZohabFaiz/Projects.git](https://github.com/ZohabFaiz/Projects.git)
-    cd Projects/Encoder_Decoder
-    ```
+   ```bash
+   git clone https://github.com/ZohabFaiz/Projects.git
+   cd Projects/Encoder_Decoder
+   ```
 
-2.  Run the script from your terminal.
+2. Run the script from your terminal.
 
-    ```bash
-    python Encoder_Decoder.py
-    ```
+   ```bash
+   python Encoder_Decoder.py
+   ```
 
 ### First-Time Setup
 
